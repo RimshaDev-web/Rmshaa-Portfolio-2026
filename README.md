@@ -1,2 +1,2 @@
 # Rmshaa-Portfolio-2026
-My mAin portfolio site
+My main portfolio site
